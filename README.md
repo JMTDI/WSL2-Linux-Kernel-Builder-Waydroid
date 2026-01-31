@@ -1,5 +1,6 @@
 # WSL2-Linux-Kernel-Builder
-![kernel-build](https://github.com/beghem/WSL2-Linux-Kernel-Builder/actions/workflows/build.yml/badge.svg)
+![kernel-build](https://github.com/JMTDI/WSL2-Linux-Kernel-Builder-Waydroid/actions/workflows/build.yml/badge.svg) ![GitHub Downloads (latest release)](https://img.shields.io/github/downloads/JMTDI/WSL2-Linux-Kernel-Builder-Waydroid/latest/total)
+
 
 This adds USB (usbip) and USB-CAN support to WSL2 Kernel.
 
